@@ -1,11 +1,11 @@
 # Flyatcsim-Sector-FAQ
 Flyatcsim Sector Package 官方问答
 
----
+## 您可前往
 
-<iframe src="index.html" style="width: 5000px;height: 5000px; border-radius: 15px;"></iframe>
+[Flyatcsim-Sector-FAQ.md](./Flyatcsim-Sector-FAQ.md)，查阅我们的往期Q&A，并寻找解决方案
 
----
+
 
 ## 讨论
 
